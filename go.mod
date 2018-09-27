@@ -1,4 +1,4 @@
-module go.coder.com/retry
+module go.coder.com/retry/v2
 
 require (
 	github.com/davecgh/go-spew v1.1.0 // indirect
